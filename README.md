@@ -1,7 +1,6 @@
 # BUSHUTTLE
 A Bus Reservation System
-
-    HEADER FILES
+HEADER FILES
 C libraries for input/output, string manipulation and memory allocation.
 
 STRUCTURES
