@@ -8,7 +8,6 @@ STRUCTURES
 They define the data structure for bus schedule and bookings.
 
 FUNCTIONS
-
 Menu function - displays a menu for users to choose options and returns selected choice.
 Bus Schedule Management functions -
 . addBusSchedule: Adds new bus.
