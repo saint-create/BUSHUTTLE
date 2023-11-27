@@ -27,11 +27,11 @@ Booking Management Functions:
 
 View Booking History Function - Displays the booking history.
 
-![IMG_20231127_204139](https://github.com/saint-create/BUSHUTTLE/assets/145945241/ddf5a7e3-c15e-4a4b-9553-28d9b1a56a97)
+![IMG_20231127_203931](https://github.com/saint-create/BUSHUTTLE/assets/145945241/d8a3249a-a4af-4312-b187-98044a1da660)
 
 Employee Login Function - Takes username and password as input and returns whether the login is successful.
 
-![IMG_20231127_204139](https://github.com/saint-create/BUSHUTTLE/assets/145945241/85c9c91b-9869-47e5-bb1a-8c5d74f700e8)
+![Uploading IMG_20231127_204139.jpg…]()
 
 Main Function:
 . Declares arrays for bus schedules and bookings.
